@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">name</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="password_name">Password\n</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="log_in_btn">Masuk</string>
+    <string name="explanation">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius illo nostrum natus dolorem enim quia vero nulla animi magni quasi, quod numquam. Exercitationem dignissimos tempore accusantium voluptatibus corrupti sunt laborum.</string>
+</resources>

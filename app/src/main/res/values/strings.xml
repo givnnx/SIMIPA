@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SIMIPA</string>
+    <string name="name">Nama</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="password_name">NISN</string>
+    <string name="masukkan_password">Masukkan NISN</string>
+    <string name="log_in_btn">Masuk</string>
+    <string name="explanation">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius illo nostrum natus dolorem enim quia vero nulla animi magni quasi, quod numquam. Exercitationem dignissimos tempore accusantium voluptatibus corrupti sunt laborum.</string>
+</resources>
